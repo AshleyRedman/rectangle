@@ -289,11 +289,11 @@
     },
     "nextDisplay" : {
       "keyCode" : 124,
-      "modifierFlags" : 1179648
+      "modifierFlags" : 393216
     },
     "previousDisplay" : {
       "keyCode" : 123,
-      "modifierFlags" : 1179648
+      "modifierFlags" : 393216
     },
     "reflowTodo" : {
       "keyCode" : 45,
